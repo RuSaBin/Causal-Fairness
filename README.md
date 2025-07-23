@@ -23,6 +23,19 @@ The dataset enables detailed decomposition of discrimination into **direct**, **
 
 This work supports the development and evaluation of fairness-aware algorithms in causal settings, especially where interpretability and legal accountability are essential.
 
+If you find the data or the resources useful, please cite: Binkyte, R. (2025) ‘Data for Causal Mediation Analysis’. Zenodo. doi: 10.5281/zenodo.16359243.
+Or use bibtex format:
+
+@dataset{binkyte_2025_16359243,
+  author       = {Binkyte, Ruta},
+  title        = {Data for Causal Mediation Analysis},
+  month        = jul,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16359243},
+  url          = {https://doi.org/10.5281/zenodo.16359243},
+}
+
 ## 🔗 Resources
 
 - 📊 [Colab Notebook (interactive)](https://colab.research.google.com/drive/1q93gnr3NNl9oFf8QdzK87L40JPwGQqRI?usp=sharing)
