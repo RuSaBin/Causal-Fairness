@@ -25,6 +25,6 @@ This work supports the development and evaluation of fairness-aware algorithms i
 
 ## 🔗 Resources
 
-- 📊 [Colab Notebook (interactive)](LINK_TO_COLAB)
+- 📊 [Colab Notebook (interactive)](https://colab.research.google.com/drive/1q93gnr3NNl9oFf8QdzK87L40JPwGQqRI?usp=sharing)
 - 📦 [Dataset (Zenodo archive)](ZENODO_DOI_LINK)
 - 📜 Based on [arXiv:2207.04053](https://arxiv.org/abs/2207.04053)
