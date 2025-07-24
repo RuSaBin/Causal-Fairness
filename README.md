@@ -1,5 +1,5 @@
 # Causal-Fairness
-# Mediation Analysis for Fairness: Synthetic Dataset and Colab Demo
+# Mediation Analysis for Fairness: Synthetic Dataset and Analysis
 
 This repository accompanies a synthetic dataset and interactive notebook designed to explore *causal fairness* through mediation analysis. Building on the framework from [Binkytė et al., 2022 (arXiv:2207.04053)](https://arxiv.org/abs/2207.04053), we simulate a realistic hiring scenario involving sensitive attributes, mediators, and confounders.
 
